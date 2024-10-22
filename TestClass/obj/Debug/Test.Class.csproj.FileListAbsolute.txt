@@ -1,0 +1,6 @@
+C:\Users\Andre\source\repos\TDDTests\TestClass\bin\Debug\TestClass.dll
+C:\Users\Andre\source\repos\TDDTests\TestClass\bin\Debug\TestClass.pdb
+C:\Users\Andre\source\repos\TDDTests\TestClass\obj\Debug\Test.Class.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\TDDTests\TestClass\obj\Debug\Test.Class.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\TDDTests\TestClass\obj\Debug\TestClass.dll
+C:\Users\Andre\source\repos\TDDTests\TestClass\obj\Debug\TestClass.pdb
